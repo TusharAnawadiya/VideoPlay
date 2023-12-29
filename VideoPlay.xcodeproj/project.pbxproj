@@ -13,6 +13,7 @@
 		C8BDDD0D2B3E970100239319 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8BDDD0B2B3E970100239319 /* Main.storyboard */; };
 		C8BDDD0F2B3E970200239319 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8BDDD0E2B3E970200239319 /* Assets.xcassets */; };
 		C8BDDD122B3E970200239319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8BDDD102B3E970200239319 /* LaunchScreen.storyboard */; };
+		C8BDDD1A2B3E972C00239319 /* pexels_videos_2759484 (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C8BDDD192B3E972C00239319 /* pexels_videos_2759484 (2160p).mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C8BDDD0E2B3E970200239319 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8BDDD112B3E970200239319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8BDDD132B3E970200239319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8BDDD192B3E972C00239319 /* pexels_videos_2759484 (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pexels_videos_2759484 (2160p).mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C8BDDD052B3E970100239319 /* AppDelegate.swift */,
 				C8BDDD072B3E970100239319 /* SceneDelegate.swift */,
 				C8BDDD092B3E970100239319 /* ViewController.swift */,
+				C8BDDD192B3E972C00239319 /* pexels_videos_2759484 (2160p).mp4 */,
 				C8BDDD0B2B3E970100239319 /* Main.storyboard */,
 				C8BDDD0E2B3E970200239319 /* Assets.xcassets */,
 				C8BDDD102B3E970200239319 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				C8BDDD122B3E970200239319 /* LaunchScreen.storyboard in Resources */,
 				C8BDDD0F2B3E970200239319 /* Assets.xcassets in Resources */,
+				C8BDDD1A2B3E972C00239319 /* pexels_videos_2759484 (2160p).mp4 in Resources */,
 				C8BDDD0D2B3E970100239319 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
